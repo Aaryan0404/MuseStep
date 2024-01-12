@@ -1,4 +1,3 @@
-# CS107e template
 ## Project title
 *Muse-Step* (making music with stepper motors)
 
